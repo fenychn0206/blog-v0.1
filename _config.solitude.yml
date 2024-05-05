@@ -167,7 +167,7 @@ aside:
   # 在页面中显示的侧边栏信息
   # Sidebar information displayed on the
   page:
-    noSticky: "about"
+    noSticky: "about,card-history"
     Sticky: "newestPost,allInfo"
   position: 0 # left(0): 左侧 / right(1): 右侧
   # 侧边栏个人信息卡片
@@ -264,7 +264,7 @@ aside:
     #  - Hexo
 
   # 侧边栏归档
-  # aside archive
+  # archive
   archive:
     enable: true
     # 显示类型
@@ -818,8 +818,9 @@ extends:
    - <link
     href="https://cdn2.codesign.qq.com/icons/5q0XlXBB4dYb70R/latest/iconfont.css"
     rel="stylesheet"/>
+   - <link rel="stylesheet" href="/custom.css">
   body: # 在body中插入 / Insert in body
-
+   - <script defer pjax src="/custom.js"></script>
 # PWA
 # https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps
 # docs: https://docs.efu.me/configuration/extra#pwa

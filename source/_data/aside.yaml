@@ -1,0 +1,10 @@
+- class_name: card-history
+  id_name:
+  name: 那年今日
+  icon: solitude st-clock-fill
+  class_content:
+  id_content: history-baidu
+  style_content: 'height:100px;overflow:hidden'
+  html: '<div class="history_swiper-container" id="history-container" style="width: 100%;height: 100%;margin-top: 6px">
+    <div id="history_container_wrapper" class="swiper-wrapper"></div>
+  </div>' 
