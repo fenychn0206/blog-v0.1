@@ -155,19 +155,19 @@ aside:
   home:
     # 固定的信息（滑动不跟随）
     # Fixed information (not followed by sliding)
-    noSticky: "about"
+    noSticky: "about,flip"
     # 不固定的信息（滑动跟随）
     # Unfixed information (sliding follow)
     Sticky: "allInfo"
   # 在文章页显示的侧边栏信息
   # Sidebar information displayed on the article page
   post:
-    noSticky: "about"
+    noSticky: "about,flip"
     Sticky: "newestPost"
   # 在页面中显示的侧边栏信息
   # Sidebar information displayed on the
   page:
-    noSticky: "about"
+    noSticky: "about,flip"
     Sticky: "newestPost,allInfo"
   position: 0 # left(0): 左侧 / right(1): 右侧
   # 侧边栏个人信息卡片
