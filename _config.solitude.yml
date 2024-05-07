@@ -735,9 +735,9 @@ katex:
 comment:
   use: twikoo # waline, twikoo, valine, artalk
   commentBarrage: true # 热评开关 / Hot comment switch
-  lazyload: true # 懒加载
+  lazyload: false # 懒加载
   count: true # 评论数展示
-  pv: false # 是否使用評論統計頁面訪問
+  pv: true # 是否使用評論統計頁面訪問
   avatar: https://cravatar.cn # Gravatar link
   newest_comment:
     enable: true
