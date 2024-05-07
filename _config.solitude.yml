@@ -141,7 +141,7 @@ hometop:
 # 顶部推荐轮播图
 # 使用方法：在文章的front matter中添加“recommend: true”
 # tip：建议开了这个就不要开hometop，其功能类似
-carousel: true
+carousel: false
 
 # --------------------------------------
 # Aside Settings
