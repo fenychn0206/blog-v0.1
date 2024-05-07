@@ -234,7 +234,7 @@ aside:
     backface: https://s3.qjqq.cn/47/662e096d116a8.webp!color
     # 背景色：var(--efu-blue) / #000 / rgba(0,0,0,0.5) / linear-gradient(to right,#f65,#ffbf37)
     # Background color: var(--efu-blue) / #000 / rgba(0,0,0,0.5) / linear-gradient(to right,#f65,#ffbf37)
-    backcolor: "var(--efu-blue)"
+    backcolor: "linear-gradient(to right,#f65,#ffbf37)"
 
 
   # 页面目录
