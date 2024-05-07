@@ -649,7 +649,7 @@ wordcount: false
 # 访问统计
 # access statistics
 busuanzi: true
-busuanzi_use: 0 # 0: 原版 / 1: 青秸(other: 其它自定義的busuanzi平台)
+busuanzi_use: 1 # 0: 原版 / 1: 青秸(other: 其它自定義的busuanzi平台)
 
 # 搜索
 # search
@@ -737,7 +737,7 @@ comment:
   commentBarrage: true # 热评开关 / Hot comment switch
   lazyload: true # 懒加载
   count: true # 评论数展示
-  pv: true # 是否使用評論統計頁面訪問
+  pv: false # 是否使用評論統計頁面訪問
   avatar: https://cravatar.cn # Gravatar link
   newest_comment:
     enable: true
