@@ -22,7 +22,7 @@ leftend: 使用 友链朋友圈 订阅友链最新文章
 
 <script>
 var fdata = {
-    apiurl: "http://192.168.31.44:8000/", /* 填写你的api地址 */
+    apiurl: "https://yt.ohdragonboi.cn/all", /* 填写你的api地址 */
     defaultFish: 100,
     hungryFish: 100,
 }
