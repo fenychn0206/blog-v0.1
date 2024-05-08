@@ -151,3 +151,8 @@ algolia:
   applicationID: 'TREZUO290M'
   apiKey: '276fb828c5375610005c01e2ddba9a2e'
   indexName: 'main'
+
+feed:
+  type: rss2
+  path: rss2
+  limit: 10
