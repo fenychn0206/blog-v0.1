@@ -393,14 +393,14 @@ post:
 # Note: The color value must be enclosed in quotation marks, such as "#000", otherwise it may cause an error!
 # --------------------------------------
 theme_color:
-  dark: "#70BC5A" # 暗色模式 / Dark mode
-  dark_op: "#70BC5A57" # 暗色模式透明 / Dark mode transparent
-  dark_op_deep: "#70BC5AAD" # 暗色模式透明深色 / Dark mode transparent dark
-  dark_none: "#f2b94b00" # 暗色模式透明无色 / Dark mode transparent colorless
-  light: "#3826D7" # 亮色模式 / Light mode
-  light_op: "#3826D766" # 亮色模式透明 / Light mode transparent
-  light_op_deep: "#3826D79E" # 亮色模式透明深色 / Light mode transparent dark
-  light_none: "#4259ef01" # 亮色模式透明无色 / Light mode transparent colorless
+  dark: "#FF9F0F" # 暗色模式 / Dark mode
+  dark_op: "#FF9F0F61" # 暗色模式透明 / Dark mode transparent
+  dark_op_deep: "#FF9F0FAD" # 暗色模式透明深色 / Dark mode transparent dark
+  dark_none: "#FF9F0F00" # 暗色模式透明无色 / Dark mode transparent colorless
+  light: "#44A12D" # 亮色模式 / Light mode
+  light_op: "#44A12D61" # 亮色模式透明 / Light mode transparent
+  light_op_deep: "#44A12DAD" # 亮色模式透明深色 / Light mode transparent dark
+  light_none: "#44A12D00" # 亮色模式透明无色 / Light mode transparent colorless
 
 # 主题显示模式调整
 # theme display mode adjustment
