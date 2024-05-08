@@ -225,17 +225,16 @@ aside:
   flip:
     # 右下角头像
     # Avatar in the lower right corner
-    favicon:
+    favicon: https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405082042945.png
     # 正面
     # Front
-    face: https://s3.qjqq.cn/47/662e0958919cb.webp!color
+    face: https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405082042944.png
     # 鼠标悬停翻转图片
     # Mouse hover flip image
-    backface: https://s3.qjqq.cn/47/662e096d116a8.webp!color
+    backface: https://cdn.jsdelivr.net/gh/FrederickAsYou/upyun-rhimgcdn@img/upload/202405082042943.png
     # 背景色：var(--efu-blue) / #000 / rgba(0,0,0,0.5) / linear-gradient(to right,#f65,#ffbf37)
     # Background color: var(--efu-blue) / #000 / rgba(0,0,0,0.5) / linear-gradient(to right,#f65,#ffbf37)
-    backcolor: "linear-gradient(to right,#f65,#ffbf37)"
-
+    backcolor: "var(--efu-blue)"
 
   # 页面目录
   # Page directory
