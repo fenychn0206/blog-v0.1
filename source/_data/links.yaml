@@ -18,3 +18,8 @@ links:
         link: https://isyangs.cn    # 友链地址
         avatar: https://7.isyangs.cn/8/655c9835780a0-8.jpg  # 显示头像
         descr: 一个前端Bug构造师的博客    # 友链简介
+      - name: Rayminn   # 友链名称
+        link: https://blog.rayminn.top    # 友链地址
+        avatar: https://avatars.githubusercontent.com/u/98998872  # 显示头像
+        descr: 怀揣理想 拥抱时代    # 友链简介
+      
