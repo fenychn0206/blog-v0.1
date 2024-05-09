@@ -473,6 +473,8 @@ footer:
     # In order for the theme to get more support, it is recommended to keep the theme link
     - name: 主题
       url: /theme/
+    - name: 订阅
+      url: /subscribe/
     - name: 萌ICP备20245128号
       url: https://icp.gov.moe/?keyword=ohdragonboi.cn
 
