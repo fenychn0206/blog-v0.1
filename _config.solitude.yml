@@ -921,5 +921,5 @@ CDN:
     # pace_js:
     # swiper_css:
     # swiper_js:
-    # busuanzi_js:
+    busuanzi_js: https://cn.vercount.one/js
     # snackbar_js:
