@@ -651,7 +651,7 @@ wordcount: false
 # 访问统计
 # access statistics
 busuanzi: true
-busuanzi_use: 0 # 0: 原版 / 1: 青秸(other: 其它自定義的busuanzi平台)
+busuanzi_use: 1 # 0: 原版 / 1: 青秸(other: 其它自定義的busuanzi平台)
 
 # 搜索
 # search
@@ -821,7 +821,6 @@ extends:
     href="https://cdn2.codesign.qq.com/icons/5q0XlXBB4dYb70R/latest/iconfont.css"
     rel="stylesheet"/>
    - <link rel="stylesheet" href="/custom.css">
-   - <script defer src="https://cn.vercount.one/js"></script>
   body: # 在body中插入 / Insert in body
    - <script defer pjax src="/custom.js"></script>
 # PWA
@@ -907,6 +906,7 @@ CDN:
 
   option:
     solitude_css: //cdn2.codesign.qq.com/icons/7pOrz0WXB5ZWJPX/latest/iconfont.css
+    busuanzi_qj_js: //pv.lemonso.com/js
     # algolia_search:
     # instantsearch:
     # pjax:
