@@ -345,6 +345,15 @@ post:
     readtime: true # 访问 / uv
     pv: true # 浏览量 / pv
     comment: true # 评论数 / Comment count
+  # footer
+  footer:
+    enable: true
+    desc: 来自 Frederick 的博客文章 # 介绍文字
+    button: # 跳转按钮
+      enable: true
+      name: 了解更多
+      url: /about/
+
   # 打赏
   # reward
   award:
@@ -720,16 +729,7 @@ post_ai:
 katex:
   enable: true
   per_page: true # 是否在每页都加载 / Whether to load on each page
-  copytex: true # 是否开启复制公式 / Whether to enable copy formula
-
-  # footer
-  footer:
-    enable: true
-    desc: 来自 OkticaBlog 的更新文章 # 介绍文字
-    button: # 跳转按钮
-      enable: true
-      name: 了解更多
-      url: /about/
+  copytex: false # 是否开启复制公式 / Whether to enable copy formula
 
 # 评论
 # comment
